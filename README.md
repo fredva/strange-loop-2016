@@ -1,3 +1,5 @@
+_tl;dr_: [Gå rett til videoanbefalingene](http://open.bekk.no/strange-loop-2016#anbefalte-presentasjoner).
+
 Sammenlignet med NDC og JavaZone er Strange Loop en mindre konferanse, med tanke på både varighet og antall deltakere. Konferansen varer i to dager og er hardcore teknologifokusert. Her finner du få talks om prosess og metodikk, men heller flere avanserte talks om litt sære temaer. Konferansen har rykte på seg for å ha mye fokus på funksjonell programmering, men den byr også på mye mer enn det. Vi så talks om alt fra modulsystemet i Java 9, til distribuerte byggesystemer hos Google, til mangfold i IT-bransjen.
 
 Vår opplevelse er at dette ikke er en konferanse for en ny og uerfaren utvikler. Mange forholdsvis avanserte konsepter tas nemlig bare for gitt og får ingen ordentlig introduksjon.
