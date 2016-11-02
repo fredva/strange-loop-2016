@@ -16,6 +16,7 @@ Vi har plukket ut en personlig favoritt hver, og til slutt noen bonusspor for de
 Personlige favoritter
 
 ## Peter - Systems programming as a swiss army knife ([video](https://youtu.be/HfD9IMZ9rKY))
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HfD9IMZ9rKY" frameborder="0" allowfullscreen></iframe>
 
 Julia er en rå, morsom og entusiastisk dame som nå jobber i Stripe. Har en veldig uvanlig måte å presentere på, som er forfriskende og fungerer utrolig bra. Hun spretter rundt på scenen, ser ned i gulvet mens hun snakker og er generelt utrolig likandes. Hun skriver zines og har også gitt ut talken som en zine. Dette er åpenbart en kjenning i miljøet, for det var god kok i salen. Hun snakker om avanserte muligheter for å debugge programmer i Linux, og viser at man egentlig ikke trenger å kunne noe som helst om språkene de er skrevet i eller hva programmene er ment å gjøre for å kunne avdekke feil i dem. Alle programmer bruker jo det underliggende operativsystemet det kjører i, og hvis man greier å se hvordan programmet påvirker systemet, kan man finne ut veldig mye om hva det gjør uten å faktisk lese noe kode.
