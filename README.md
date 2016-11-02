@@ -13,7 +13,6 @@ Sammenlignet med norske konferanser finner vi et betydelig større antall skikke
 
 # Anbefalte presentasjoner
 Vi har plukket ut en personlig favoritt hver, og til slutt noen bonusspor for de som virkelig ikke får nok. På denne turen har vi diskutert mye på kveldene og underveis på reisen, og på mange måter har det faktisk vært mer å hente av disse gode diskusjonene enn å kun se presentasjonene.
-Personlige favoritter
 
 ## Peter - Systems programming as a swiss army knife
 
