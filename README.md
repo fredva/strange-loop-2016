@@ -1,14 +1,11 @@
-# Strange Loop 2016
-
-
 Vi, Peder, Fredrik, Bendik og Peter, var så heldige å få dra på konferansen Strange Loop i St. Louis i september. Her er vår oppsummering av opplevelsen, og en liste med talks vi anbefaler å se på video.
 
-Sammenlignet med NDC og JavaZone er Strange Loop en mindre konferanse, med tanke på både varighet og antall deltakere. Konferansen varer i to dager og er hardcore teknologifokusert. Her finner du få talks om prosess og metodikk, men heller flere avanserte talks om litt sære temaer. Konferansen har rykte på seg for å ha mye fokus på funksjonell programmering, men den byr også på mye mer enn det. Vi så talks om alt fra modulsystemet i Java 9, til distribuerte byggesystemer hos Google, til mangfold i IT-bransjen. 
+Sammenlignet med NDC og JavaZone er Strange Loop en mindre konferanse, med tanke på både varighet og antall deltakere. Konferansen varer i to dager og er hardcore teknologifokusert. Her finner du få talks om prosess og metodikk, men heller flere avanserte talks om litt sære temaer. Konferansen har rykte på seg for å ha mye fokus på funksjonell programmering, men den byr også på mye mer enn det. Vi så talks om alt fra modulsystemet i Java 9, til distribuerte byggesystemer hos Google, til mangfold i IT-bransjen.
 
-Vår opplevelse er at dette ikke er en konferanse for en ny og uerfaren utvikler. Mange forholdsvis avanserte konsepter tas nemlig bare for gitt og får ingen ordentlig introduksjon. 
+Vår opplevelse er at dette ikke er en konferanse for en ny og uerfaren utvikler. Mange forholdsvis avanserte konsepter tas nemlig bare for gitt og får ingen ordentlig introduksjon.
 Nivået på presentasjonene er generelt høyt, men som alle konferanser vi har vært på er det også noen presentasjoner som er dårlige, uforberedte og totalt bortkastet tid. Det var fem samtidige presentasjoner, og det bekrefter igjen hvor viktig det er å mestre kunsten å velge riktige talks på en konferanse.
 
-Sammenlignet med norske konferanser var det mye oppmerksomhet rundt konferansens Code of Conduct, og generelt større bredde og mangfold blant deltakerne enn vi vanligvis ser i Norge. Strange Loop har også en ordning der deltakere fra underrepresenterte grupper får søke om å delta gratis. Det var mange kvinnelige speakers – hele tre av fire keynotes ble holdt av kvinnelige speakers – en annen positiv forskjell fra andre konferanser vi har vært på. 
+Sammenlignet med norske konferanser var det mye oppmerksomhet rundt konferansens Code of Conduct, og generelt større bredde og mangfold blant deltakerne enn vi vanligvis ser i Norge. Strange Loop har også en ordning der deltakere fra underrepresenterte grupper får søke om å delta gratis. Det var mange kvinnelige speakers – hele tre av fire keynotes ble holdt av kvinnelige speakers – en annen positiv forskjell fra andre konferanser vi har vært på.
 
 Hele konferansen er preget av vennlig, løssluppen og kul stemning. Det ble spesielt tydelig på konferansefesten, som foregikk på det fantastiske St. Louis City Museum. Museet er samlingen til en eksentrisk kunstner og består av veldig mye rart. Det er sklier mellom etasjene, falske huleganger, hemmelige passasjer, pariserhjul på taket av det tolv etasjer høye bygget og utrolig mye mer. Festen varte fra syv til halv ti, og inneholdt en betydelig mindre andel rølp enn tilsvarende arrangementer på norske konferanser. Deltakerne ble til og med oppfordret til å ta med seg familie og barn på festen – mon tro når man begynner med det på AweZone?
 
@@ -17,7 +14,7 @@ Sammenlignet med norske konferanser finner vi et betydelig større antall skikke
 ## Anbefalte presentasjoner
 Vi har plukket ut en personlig favoritt hver, og til slutt noen bonusspor for de som virkelig ikke får nok. På denne turen har vi diskutert mye på kveldene og underveis på reisen, og på mange måter har det faktisk vært mer å hente av disse gode diskusjonene enn å kun se presentasjonene.
 Personlige favoritter
-		
+
 ### Peter - Systems programming as a swiss army knife ([video](youtu.be/HfD9IMZ9rKY))
 
 Julia er en rå, morsom og entusiastisk dame som nå jobber i Stripe. Har en veldig uvanlig måte å presentere på, som er forfriskende og fungerer utrolig bra. Hun spretter rundt på scenen, ser ned i gulvet mens hun snakker og er generelt utrolig likandes. Hun skriver zines og har også gitt ut talken som en zine. Dette er åpenbart en kjenning i miljøet, for det var god kok i salen. Hun snakker om avanserte muligheter for å debugge programmer i Linux, og viser at man egentlig ikke trenger å kunne noe som helst om språkene de er skrevet i eller hva programmene er ment å gjøre for å kunne avdekke feil i dem. Alle programmer bruker jo det underliggende operativsystemet det kjører i, og hvis man greier å se hvordan programmet påvirker systemet, kan man finne ut veldig mye om hva det gjør uten å faktisk lese noe kode.
@@ -34,7 +31,7 @@ Alt i alt syns jeg dette var en god introduksjon til temaet, og kan anbefale en 
 
 ### Fredrik – Is it a bug or is it a story? ([video](http://youtu.be/sMy4L-J6fFs))
 
-Nicola Hughes jobber som utvikler i Thoughtworks, men har tidligere erfaring som researcher og gravejournalist i CNN, BBC, The Times og The Guardian. Som journalist spesialiserte hun seg på å analysere store datasett på jakt etter korrupsjon og skjulte mønstre i samfunnet. 
+Nicola Hughes jobber som utvikler i Thoughtworks, men har tidligere erfaring som researcher og gravejournalist i CNN, BBC, The Times og The Guardian. Som journalist spesialiserte hun seg på å analysere store datasett på jakt etter korrupsjon og skjulte mønstre i samfunnet.
 
 I presentasjonen gir hun flere eksempler på funn hun har gjort ved å analysere data, og stiller publikum spørsmålet “Is it a bug, or is it a story?”. Med andre ord: Er funnene i datasettet publiseringsverdige – har vi en nyhetssak? – eller er datasettet ufullstendig eller metoden feilaktig? Interessant og tankevekkende om at sammenhenger og konklusjoner som kan virke åpenbare, ofte ikke er det.
 
@@ -42,7 +39,7 @@ I presentasjonen gir hun flere eksempler på funn hun har gjort ved å analysere
 
 “Tacit programming”, eller “point free style” er the shit. Det hjelper deg å se på funksjoner som komposisjoner ved å fjerne støyende elementer som funksjonsargumenter, og kan derfor hjelpe deg å krype enda lengre inn i den funksjonelle verden. Amar Shah viser hvordan man kan gå fram for å gjøre alle funksjoner point free, og innfører blant annet en ny operator for å gjøre point free style mer leselig i flere tilfeller.
 
-Denne talken er verdt å se dersom du er nysgjerrig på konseptet point free, eller kanskje har prøvd å kode point free tidligere uten å ha følt at det har gitt deg 
+Denne talken er verdt å se dersom du er nysgjerrig på konseptet point free, eller kanskje har prøvd å kode point free tidligere uten å ha følt at det har gitt deg
 noe særlig.
 
 
@@ -53,7 +50,7 @@ noe særlig.
 Lee Byron, som var med fra starten på React og har laget Immutable.js, er en rå fyr. Byron er god til å forklare hva GraphQL er for noe og hvilket problem det løser. Han snakker  også om hva GraphQL ikke er (en graf eller en database). GitHub annonserte nettopp at det nye API-et deres vil støtte GraphQL, og noen få dager før denne talken ble språket offisielt produksjonsklart. Dette er en god talk for deg som lurer på hva GraphQL er, og hvordan det er å lage et språk.
 
 ### Debugging diversity ([video](youtu.be/4KhXwl0L61g))
-Tankevekkende om mangfold i teknologibransjen, et tema som kanskje burde stått høyere på agendaen her i Norge. Denne førte til mange lange og gode diskusjoner over øl og løkringer på kveldene i St. Louis. 
+Tankevekkende om mangfold i teknologibransjen, et tema som kanskje burde stått høyere på agendaen her i Norge. Denne førte til mange lange og gode diskusjoner over øl og løkringer på kveldene i St. Louis.
 
 ### Lies, Damn Lies, and Metrics ([video](youtu.be/pYbgcDfM2Ts))
 God presentasjon om måling av data, og hvorfor du alltid bør visualisere i stedet for å aggregere.
